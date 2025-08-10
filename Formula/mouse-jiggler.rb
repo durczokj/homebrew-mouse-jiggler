@@ -8,6 +8,6 @@ class MouseJiggler < Formula
   depends_on "cliclick"
 
   def install
-    bin.install "mousejiggler"
+    bin.install "mouse-jiggler"
   end
 end

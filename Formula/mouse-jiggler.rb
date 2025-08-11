@@ -1,8 +1,8 @@
 class MouseJiggler < Formula
   desc "Keep your Mac awake by subtly moving the mouse"
   homepage "https://github.com/durczokj/mouse-jiggler"
-  url "https://github.com/durczokj/mouse-jiggler/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "a8bec29ea5f5570be8d84ad9ef9e81dd608432c0b17811c4426b94a742e5df3d"
+  url "https://github.com/durczokj/mouse-jiggler/archive/refs/tags/v2.0.0.tar.gz"
+  sha256 "36216032fb231183d78487433150e9db55da50ce217d4e611d3086b55f25b973"
   license "MIT"
 
   depends_on "cliclick"
